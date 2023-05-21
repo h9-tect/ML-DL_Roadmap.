@@ -262,7 +262,33 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 10. Random Variables and Probability Distributions by Math Goodies
     - [Website Link](https://www.mathgoodies.com/lessons/vol6/random_variables)
 
-   - Expectation, Variance, and Covariance: Expected value, variance, covariance, correlation coefficient.
+##   - Expectation, Variance, and Covariance: Expected value, variance, covariance, correlation coefficient.
+   ## Learning Resources: Expectation, Variance, and Covariance
+
+1. Expectation, Variance, and Covariance by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-library/v/random-variables-and-probability-distributions)
+
+2. Expectation, Variance, and Covariance by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/data/expectation.html)
+
+3. Expectation, Variance, and Covariance by Stat Trek
+   - [Website Link](https://stattrek.com/probability-distributions/expectation.aspx)
+
+4. Expectation, Variance, and Covariance by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
+5. Expectation, Variance, and Covariance by CrashCourse
+   - [YouTube Video Link](https://www.youtube.com/watch?v=MRqtXL2WX2M)
+
+6. Expectation, Variance, and Covariance by MathDoctorBob
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLkTxgafCgJhFGggdcoHHjB0jPJ7SmcROQ)
+
+7. Expectation, Variance, and Covariance by Krista King Math
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PL0o_zxa4K1BUdfqNZk3eZ-2C-v-WP7c3N)
+
+8. Expectation, Variance, and Covariance by Math Goodies
+   - [Website Link](https://www.mathgoodies.com/lessons/vol6/expectations)
+
  ##   - Common Probability Distributions: Uniform, Bernoulli, Binomial, Gaussian (Normal), Exponential, Poisson.
    ## Learning Resources: Common Probability Distributions
 
