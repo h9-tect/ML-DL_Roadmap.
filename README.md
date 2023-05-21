@@ -137,7 +137,36 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 8. Matrix Inverse and Pseudoinverse by MathPortal
    - [Website Link](https://www.mathportal.org/algebra/matrices/matrix-inverse-and-pseudoinverse.php)
 
-   - Eigendecomposition and Diagonalization: Eigenvalues, eigenvectors, eigendecomposition, diagonalization.
+ ##  - Eigendecomposition and Diagonalization: Eigenvalues, eigenvectors, eigendecomposition, diagonalization.
+  
+
+1. Eigenvectors and Eigenvalues by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors)
+
+2. Eigendecomposition by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/algebra/diagonalization.html)
+
+3. Eigendecomposition and Diagonalization by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-eigenvalues-and-eigenvectors/)
+
+4. Eigenvectors, Eigenvalues, and Diagonalization by MathDoctorBob
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLkTxgafCgJhE8oGRC6lHK5VX4GuizpZ_o)
+
+5. Eigenvalues and Eigenvectors by 3Blue1Brown
+   - [YouTube Video Link](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+6. Eigendecomposition and Diagonalization by MathTheBeautiful
+   - [YouTube Video Link](https://www.youtube.com/watch?v=slO5YVK5Gz8)
+
+7. Eigenvectors and Eigenvalues by MathOnlineSchool
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLqEfivt9ITkO_3j9_V7ko84yEAcIof0wW)
+
+8. Eigendecomposition and Diagonalization by Krista King Math
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PL0o_zxa4K1BV6UMedecvzfrcR9V9X9L7r)
+
+9. Eigendecomposition and Diagonalization by MathPortal
+   - [Website Link](https://www.mathportal.org/algebra/matrices/eigenvalue-decomposition-diagonalization.php)
+
    - Singular Value Decomposition (SVD): SVD theorem, SVD computation, low-rank approximation.
 
 ### 2. Probability and Statistics
