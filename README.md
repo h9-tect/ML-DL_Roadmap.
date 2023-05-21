@@ -11,7 +11,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 6. [Deep Learning Basics](#deep-learning-basics)
 7. [Advanced Deep Learning Topics](#advanced-deep-learning-topics)
 ### 1. Linear Algebra
-   - Vectors and Matrices: Vector operations, matrix operations, dot product, matrix-vector multiplication.
+  #### - Vectors and Matrices: Vector operations, matrix operations, dot product, matrix-vector multiplication.
    ## Learning Resources: Vectors and Matrices
 
 1. Vectors and Matrices by Math Is Fun
@@ -47,7 +47,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 11. 3Blue1Brown: Essence of Linear Algebra (YouTube series)
     - [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-   - Matrix Operations: Transpose, trace, determinant, matrix inverse, matrix rank.
+  #### - Matrix Operations: Transpose, trace, determinant, matrix inverse, matrix rank.
    ## Additional Resources: Matrix Operations
 
 1. Matrix Operations: Addition, Subtraction, Scalar Multiplication by Math Easy Solutions
