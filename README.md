@@ -229,7 +229,39 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 10. Probability Basics by Math Goodies
     - [Website Link](https://www.mathgoodies.com/lessons/vol6/intro_probability)
 
-   - Random Variables and Probability Distributions: Discrete and continuous random variables, probability mass function (PMF), probability density function (PDF).
+ ##   - Random Variables and Probability Distributions: Discrete and continuous random variables, probability mass function (PMF), probability density function (PDF).
+   
+
+1. Random Variables and Probability Distributions by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/ap-statistics/random-variables-ap)
+
+2. Random Variables and Probability Distributions by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
+3. Random Variables and Probability Distributions by Stat Trek
+   - [Website Link](https://stattrek.com/probability/random-variable.aspx)
+
+4. Random Variables and Probability Distributions by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/data/random-variables.html)
+
+5. Random Variables and Probability Distributions by CrashCourse
+   - [YouTube Video Link](https://www.youtube.com/watch?v=8tYd-zruE78)
+
+6. Random Variables and Probability Distributions by Khan Academy
+   - [Course Link](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library)
+
+7. Introduction to Random Variables and Probability Distributions by Rice University (Coursera)
+   - [Course Link](https://www.coursera.org/learn/probability-intro-random-variables-distributions)
+
+8. Random Variables and Probability Distributions by CliffsNotes
+   - [Website Link](https://www.cliffsnotes.com/study-guides/statistics/random-variables-and-probability-distributions)
+
+9. Introduction to Random Variables and Probability Distributions by Study.com
+   - [Website Link](https://study.com/academy/topic/random-variables-and-probability-distributions.html)
+
+10. Random Variables and Probability Distributions by Math Goodies
+    - [Website Link](https://www.mathgoodies.com/lessons/vol6/random_variables)
+
    - Expectation, Variance, and Covariance: Expected value, variance, covariance, correlation coefficient.
    - Common Probability Distributions: Uniform, Bernoulli, Binomial, Gaussian (Normal), Exponential, Poisson.
    - Bayes' Rule and Conditional Probability: Bayes' theorem, prior probability, posterior probability.
