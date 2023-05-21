@@ -196,7 +196,39 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 
 
 ### 2. Probability and Statistics
-   - Probability Basics: Sample space, events, probability axioms, conditional probability, Bayes' rule.
+ ##   - Probability Basics: Sample space, events, probability axioms, conditional probability, Bayes' rule.
+ s
+
+1. Probability Basics by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/statistics-probability/probability-library)
+
+2. Introduction to Probability by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
+3. Probability Basics by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/data/probability.html)
+
+4. Probability Basics by Stat Trek
+   - [Website Link](https://stattrek.com/probability/probability-basics.aspx)
+
+5. Probability Basics by CrashCourse
+   - [YouTube Video Link](https://www.youtube.com/watch?v=uzkc-qNVoOk)
+
+6. Introduction to Probability by Khan Academy
+   - [Course Link](https://www.khanacademy.org/math/statistics-probability/probability-library)
+
+7. Probability Fundamentals by Udacity
+   - [Course Link](https://www.udacity.com/course/probability-the-science-of-uncertainty-and-data--ud501)
+
+8. Introduction to Probability and Data by Duke University (Coursera)
+   - [Course Link](https://www.coursera.org/learn/probability-intro)
+
+9. Probability Basics by Statistics How To
+   - [Website Link](https://www.statisticshowto.com/probability-basics/)
+
+10. Probability Basics by Math Goodies
+    - [Website Link](https://www.mathgoodies.com/lessons/vol6/intro_probability)
+
    - Random Variables and Probability Distributions: Discrete and continuous random variables, probability mass function (PMF), probability density function (PDF).
    - Expectation, Variance, and Covariance: Expected value, variance, covariance, correlation coefficient.
    - Common Probability Distributions: Uniform, Bernoulli, Binomial, Gaussian (Normal), Exponential, Poisson.
