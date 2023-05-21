@@ -110,7 +110,33 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 9. Linear Independence and Rank by MathPortal
    - [Website Link](https://www.mathportal.org/algebra/matrices/linear-independence-and-rank.php)
 
-   - Matrix Inverse and Pseudoinverse: Inverse matrix, pseudoinverse.
+  ## - Matrix Inverse and Pseudoinverse: Inverse matrix, pseudoinverse.
+ 
+
+1. Matrix Inverse by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/precalculus/precalc-matrices/inverting_matrices/v/linear-algebra-inverse-of-a-matrix)
+
+2. Pseudoinverse by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/algebra/matrix-inverse-pseudoinverse.html)
+
+3. Matrix Inverse and Pseudoinverse by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-matrix-inverses-and-determinants/)
+
+4. Matrix Inverse and Pseudoinverse by MathDoctorBob
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLkTxgafCgJhFg5AdqGR9ILm0G9f9S0UGx)
+
+5. Matrix Inverse and Pseudoinverse by MathTheBeautiful
+   - [YouTube Video Link](https://www.youtube.com/watch?v=8BX2_zAXMT4)
+
+6. Matrix Inversion and Pseudoinverse by MathOnlineSchool
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLqEfivt9ITkOCEXKviqRG1fHEgxf_9v5V)
+
+7. Pseudoinverse by Krista King Math
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVSvDJBXo-uOgGwcE8fTi-x)
+
+8. Matrix Inverse and Pseudoinverse by MathPortal
+   - [Website Link](https://www.mathportal.org/algebra/matrices/matrix-inverse-and-pseudoinverse.php)
+
    - Eigendecomposition and Diagonalization: Eigenvalues, eigenvectors, eigendecomposition, diagonalization.
    - Singular Value Decomposition (SVD): SVD theorem, SVD computation, low-rank approximation.
 
