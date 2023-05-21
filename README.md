@@ -12,6 +12,41 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 7. [Advanced Deep Learning Topics](#advanced-deep-learning-topics)
 ### 1. Linear Algebra
    - Vectors and Matrices: Vector operations, matrix operations, dot product, matrix-vector multiplication.
+   ## Learning Resources: Vectors and Matrices
+
+1. Vectors and Matrices by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/algebra/matrix-introduction.html)
+
+2. Vectors and Matrices Crash Course by BetterExplained
+   - [Article Link](https://betterexplained.com/articles/linear-algebra-guide/)
+
+3. Vectors and Matrices in MATLAB
+   - [Tutorial Link](https://www.tutorialspoint.com/matlab/matlab_vectors.htm)
+
+4. Introduction to Vectors and Matrices by Purplemath
+   - [Tutorial Link](https://www.purplemath.com/modules/mtrxrows.htm)
+
+5. Vector and Matrix Basics by MathBootCamps (YouTube video)
+   - [Video Link](https://www.youtube.com/watch?v=QVk7TZFOY7s)
+
+6. Linear Algebra: Vectors and Matrices by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+7. Linear Algebra: Foundations to Frontiers by edX
+   - [Course Link](https://www.edx.org/professional-certificate/pennx-linear-algebra-foundations-to-frontiers)
+
+8. Linear Algebra Refresher Course by Khan Academy
+   - [Course Link](https://www.khanacademy.org/math/linear-algebra)
+
+9. Introduction to Linear Algebra by Gilbert Strang (Textbook)
+   - [Book Link](https://math.mit.edu/~gs/linearalgebra/)
+
+10. Linear Algebra Done Right by Sheldon Axler (Textbook)
+    - [Book Link](https://linear.axler.net/)
+
+11. 3Blue1Brown: Essence of Linear Algebra (YouTube series)
+    - [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
    - Matrix Operations: Transpose, trace, determinant, matrix inverse, matrix rank.
    - Linear Independence and Rank: Linearly independent vectors, rank of a matrix.
    - Matrix Inverse and Pseudoinverse: Inverse matrix, pseudoinverse.
