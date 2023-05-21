@@ -81,7 +81,35 @@ This roadmap outlines the mathematical concepts and topics covered in various de
     - [Website Link](https://www.mathportal.org/algebra/matrix/operations.php)
 
 
-   - Linear Independence and Rank: Linearly independent vectors, rank of a matrix.
+   ## - Linear Independence and Rank: Linearly independent vectors, rank of a matrix.
+
+1. Linear Independence and Span by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-independence-example)
+
+2. Rank of a Matrix by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/algebra/matrix-rank.html)
+
+3. Linear Independence and Rank by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-linear-independence-and-rank/)
+
+4. Linear Independence and Rank by MathDoctorBob
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLkTxgafCgJhFpDNUT2A7HjryYVpNW6i9E)
+
+5. Linear Algebra: Introduction to Linear Independence and Span by MathBootCamps
+   - [YouTube Video Link](https://www.youtube.com/watch?v=2nIxoR-xKbA)
+
+6. Linear Independence and Rank by MathOnlineSchool
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLqEfivt9ITkOaPhXIFvR82Ng1H8N5kQlX)
+
+7. Linear Independence and Rank by Krista King Math
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVKErFko9je9IBZ0hXWXVtV)
+
+8. Linear Algebra: Basis, Linear Independence, and Rank by MathTheBeautiful
+   - [YouTube Video Link](https://www.youtube.com/watch?v=chFCCllGYGw)
+
+9. Linear Independence and Rank by MathPortal
+   - [Website Link](https://www.mathportal.org/algebra/matrices/linear-independence-and-rank.php)
+
    - Matrix Inverse and Pseudoinverse: Inverse matrix, pseudoinverse.
    - Eigendecomposition and Diagonalization: Eigenvalues, eigenvectors, eigendecomposition, diagonalization.
    - Singular Value Decomposition (SVD): SVD theorem, SVD computation, low-rank approximation.
