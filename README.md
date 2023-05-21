@@ -10,7 +10,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 5. [Machine Learning Fundamentals](#machine-learning-fundamentals)
 6. [Deep Learning Basics](#deep-learning-basics)
 7. [Advanced Deep Learning Topics](#advanced-deep-learning-topics)
-### 1. Linear Algebra
+# 1. Linear Algebra
   ## - Vectors and Matrices: Vector operations, matrix operations, dot product, matrix-vector multiplication.
    
 
@@ -195,7 +195,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
    - [Website Link](https://www.mathportal.org/algebra/matrices/singular-value-decomposition-svd.php)
 
 
-### 2. Probability and Statistics
+# 2. Probability and Statistics
  ##   - Probability Basics: Sample space, events, probability axioms, conditional probability, Bayes' rule.
  s
 
@@ -383,7 +383,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
    - [Website Link](https://www.mathgoodies.com/lessons/vol10/information_theory)
 
 
-### 3. Calculus
+# 3. Calculus
 ##   - Differential Calculus: Derivatives, chain rule, partial derivatives.
    ## Learning Resources: Differential Calculus
 
@@ -475,7 +475,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
    - [Website Link](https://www.mathgoodies.com/lessons/vol10/optimization)
 
 
-### 4. Numerical Computation
+# 4. Numerical Computation
  ## - Floating Point Representation: Floating point format, precision, machine epsilon.
    ## Learning Resources: Floating Point Representation
 
@@ -594,7 +594,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
    - [Lecture Notes Link](https://people.eecs.berkeley.edu/~jrs/189/fa05/lectures/lecture23.pdf)
 
 
-### 5. Machine Learning Fundamentals
+# 5. Machine Learning Fundamentals
   ## - Linear Regression: Model representation, cost function, normal equation, gradient descent for linear regression.
   ## Learning Resources: Linear Regression
 
@@ -750,7 +750,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 
   
 
-### 6. Deep Learning Basics
+# 6. Deep Learning Basics
  ##  - Feedforward Neural Networks: Architecture, activation functions, forward propagation, backward propagation.
  ## Learning Resources: Feedforward Neural Networks
 
@@ -996,7 +996,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
    - [Discussion Link](https://github.com/openai/spinningup/discussions/14)
 
 
-### 7.Advanced Deep Learning Topics 
+# 7.Advanced Deep Learning Topics 
 
 ## - Batch Normalization: Normalizing activations in deep neural networks.
 ## Learning Resources: Batch Normalization
