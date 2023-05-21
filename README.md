@@ -167,7 +167,33 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 9. Eigendecomposition and Diagonalization by MathPortal
    - [Website Link](https://www.mathportal.org/algebra/matrices/eigenvalue-decomposition-diagonalization.php)
 
-   - Singular Value Decomposition (SVD): SVD theorem, SVD computation, low-rank approximation.
+ ##  - Singular Value Decomposition (SVD): SVD theorem, SVD computation, low-rank approximation.
+  
+
+1. Singular Value Decomposition (SVD) by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/singular-value-decomposition/v/singular-value-decomposition-svd-introduction-part-1)
+
+2. Singular Value Decomposition (SVD) by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/algebra/matrix-decomposition-singular-value.html)
+
+3. Singular Value Decomposition (SVD) by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-singular-value-decomposition/)
+
+4. Singular Value Decomposition (SVD) by MathDoctorBob
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLkTxgafCgJhFsC5jnzX_JzKj0ko4WxDs9)
+
+5. Singular Value Decomposition (SVD) by MathTheBeautiful
+   - [YouTube Video Link](https://www.youtube.com/watch?v=H1sdrDtqOXQ)
+
+6. Singular Value Decomposition (SVD) by MathOnlineSchool
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLqEfivt9ITkONzDH3wjHqcOVjKJApLIQo)
+
+7. Singular Value Decomposition (SVD) by Krista King Math
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PL0o_zxa4K1BUlQeriB9F1b5aVJnW4vs_y)
+
+8. Singular Value Decomposition (SVD) by MathPortal
+   - [Website Link](https://www.mathportal.org/algebra/matrices/singular-value-decomposition-svd.php)
+
 
 ### 2. Probability and Statistics
    - Probability Basics: Sample space, events, probability axioms, conditional probability, Bayes' rule.
