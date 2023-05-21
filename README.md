@@ -50,18 +50,18 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 
 7.Advanced Deep Learning Topics (continued)
 
-- Batch Normalization: Normalizing activations in deep neural networks.
-- Transfer Learning: Leveraging pre-trained models for new tasks.
-- Reinforcement Learning: Markov decision processes, Q-learning, policy gradients.
-- Natural Language Processing (NLP): Word embeddings, recurrent neural networks for sequence modeling.
-- Time Series Analysis: Modeling and forecasting time series data with deep learning.
-- Autoencoders and Variational Autoencoders (VAEs): Unsupervised learning, dimensionality reduction, generative models.
-- Model Interpretability and Explainability: Techniques to interpret and explain deep learning models.
+ - Batch Normalization: Normalizing activations in deep neural networks.
+ - Transfer Learning: Leveraging pre-trained models for new tasks.
+ - Reinforcement Learning: Markov decision processes, Q-learning, policy gradients.
+ - Natural Language Processing (NLP): Word embeddings, recurrent neural networks for sequence modeling.
+ - Time Series Analysis: Modeling and forecasting time series data with deep learning.
+ - Autoencoders and Variational Autoencoders (VAEs): Unsupervised learning, dimensionality reduction, generative models.
+ - Model Interpretability and Explainability: Techniques to interpret and explain deep learning models.
 ## Contributing
 This roadmap is a compilation of mathematical concepts covered in various deep learning resources, including the following:
 
-"Deep Learning" book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
-"Deep Learning with Python, Second Edition" by François Chollet.
-"Grokking Deep Learning" by Andrew Trask.
-"Deep Learning: A Practitioner's Approach" by Josh Patterson and Adam Gibson.
-"Deep Learning for Coders with fastai and PyTorch" by Jeremy Howard and Sylvain Gugger.
+1. "Deep Learning" book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+2. "Deep Learning with Python, Second Edition" by François Chollet.
+3. "Grokking Deep Learning" by Andrew Trask.
+4. "Deep Learning: A Practitioner's Approach" by Josh Patterson and Adam Gibson.
+5. "Deep Learning for Coders with fastai and PyTorch" by Jeremy Howard and Sylvain Gugger.
