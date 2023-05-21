@@ -48,6 +48,39 @@ This roadmap outlines the mathematical concepts and topics covered in various de
     - [YouTube Playlist Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
    - Matrix Operations: Transpose, trace, determinant, matrix inverse, matrix rank.
+   ## Additional Resources: Matrix Operations
+
+1. Matrix Operations: Addition, Subtraction, Scalar Multiplication by Math Easy Solutions
+   - [Website Link](https://matheasysolutions.com/2021/02/09/matrix-operations-addition-subtraction-scalar-multiplication/)
+
+2. Matrix Operations: Multiplication, Transpose, and Determinant by Math Easy Solutions
+   - [Website Link](https://matheasysolutions.com/2021/03/22/matrix-operations-multiplication-transpose-and-determinant/)
+
+3. Matrix Operations by Purplemath
+   - [Website Link](https://www.purplemath.com/modules/mtrxoprs.htm)
+
+4. Linear Algebra Toolkit: Matrix Operations by MathsIsPower4U
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLZ6kagz8q0bvxaUKCe2RRvU_h7wtNNxx9)
+
+5. Matrix Operations by MathOnlineSchool
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLqEfivt9ITkP3NssLCdPN1WmSS7kkjnwn)
+
+6. Matrix Operations by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-multiplication/v/matrix-multiplication-intro)
+
+7. Matrix Operations by MathIsPower4U
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLC15FE3F64C4C5E13)
+
+8. Linear Algebra: Matrix Operations by MathDoctorBob
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PLkTxgafCgJhFw4x8DEjl9IflfqF4GwGcH)
+
+9. Matrix Operations by Krista King Math
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVKErFko9je9IBZ0hXWXVtV)
+
+10. Matrix Operations by MathPortal
+    - [Website Link](https://www.mathportal.org/algebra/matrix/operations.php)
+
+
    - Linear Independence and Rank: Linearly independent vectors, rank of a matrix.
    - Matrix Inverse and Pseudoinverse: Inverse matrix, pseudoinverse.
    - Eigendecomposition and Diagonalization: Eigenvalues, eigenvectors, eigendecomposition, diagonalization.
