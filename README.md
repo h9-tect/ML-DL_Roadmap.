@@ -263,7 +263,36 @@ This roadmap outlines the mathematical concepts and topics covered in various de
     - [Website Link](https://www.mathgoodies.com/lessons/vol6/random_variables)
 
    - Expectation, Variance, and Covariance: Expected value, variance, covariance, correlation coefficient.
-   - Common Probability Distributions: Uniform, Bernoulli, Binomial, Gaussian (Normal), Exponential, Poisson.
+ ##   - Common Probability Distributions: Uniform, Bernoulli, Binomial, Gaussian (Normal), Exponential, Poisson.
+   ## Learning Resources: Common Probability Distributions
+
+1. Common Probability Distributions by Khan Academy
+   - [Tutorial Link](https://www.khanacademy.org/math/ap-statistics/random-variables-ap)
+
+2. Common Probability Distributions by Stat Trek
+   - [Website Link](https://stattrek.com/probability-distributions/common.aspx)
+
+3. Common Probability Distributions by Math Is Fun
+   - [Website Link](https://www.mathsisfun.com/data/probability-distributions.html)
+
+4. Common Probability Distributions by CrashCourse
+   - [YouTube Video Link](https://www.youtube.com/watch?v=JwJ8HUF2UCk)
+
+5. Common Probability Distributions by Rice University (Coursera)
+   - [Course Link](https://www.coursera.org/learn/probability-distributions)
+
+6. Common Probability Distributions by MIT OpenCourseWare
+   - [Course Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
+7. Probability Distributions by Krista King Math
+   - [Video Playlist Link](https://www.youtube.com/playlist?list=PL0o_zxa4K1BUZCWUOk9Zm5pBCLYO6_9Xl)
+
+8. Introduction to Probability Distributions by Study.com
+   - [Website Link](https://study.com/academy/topic/introduction-to-probability-distributions.html)
+
+9. Common Probability Distributions by Math Goodies
+   - [Website Link](https://www.mathgoodies.com/lessons/vol6/probability_distributions)
+
    - Bayes' Rule and Conditional Probability: Bayes' theorem, prior probability, posterior probability.
    - Information Theory: Entropy, cross-entropy, Kullback-Leibler (KL) divergence.
 
