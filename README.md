@@ -3,13 +3,13 @@
 This roadmap outlines the mathematical concepts and topics covered in various deep learning resources. It provides a structured path to understand the necessary mathematical foundations for deep learning.
 
 ## Table of Contents
-1. [Linear Algebra](#linear-algebra)
-2. [Probability and Statistics](#probability-and-statistics)
-3. [Calculus](#calculus)
-4. [Numerical Computation](#numerical-computation)
-5. [Machine Learning Fundamentals](#machine-learning-fundamentals)
-6. [Deep Learning Basics](#deep-learning-basics)
-7. [Advanced Deep Learning Topics](#advanced-deep-learning-topics)
+1. [Linear Algebra](#1-linear-algebra)
+2. [Probability and Statistics](#2-probability-and-statistics)
+3. [Calculus](#3-calculus)
+4. [Numerical Computation](#4-numerical-computation)
+5. [Machine Learning Fundamentals](#5-machine-learning-fundamentals)
+6. [Deep Learning Basics](#6-deep-learning-basics)
+7. [Advanced Deep Learning Topics](#7-advanced-deep-learning-topics)
 # 1. Linear Algebra
   ## - Vectors and Matrices: Vector operations, matrix operations, dot product, matrix-vector multiplication.
    
@@ -996,7 +996,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
    - [Discussion Link](https://github.com/openai/spinningup/discussions/14)
 
 
-# 7.Advanced Deep Learning Topics 
+# 7. Advanced Deep Learning Topics 
 
 ## - Batch Normalization: Normalizing activations in deep neural networks.
 ## Learning Resources: Batch Normalization
