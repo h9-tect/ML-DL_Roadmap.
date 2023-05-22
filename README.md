@@ -3,13 +3,13 @@
 This roadmap outlines the mathematical concepts and topics covered in various deep learning resources. It provides a structured path to understand the necessary mathematical foundations for deep learning.
 
 ## Table of Contents
-1. [Linear Algebra](#linear-algebra)
-2. [Probability and Statistics](#probability-and-statistics)
-3. [Calculus](#calculus)
-4. [Numerical Computation](#numerical-computation)
-5. [Machine Learning Fundamentals](#machine-learning-fundamentals)
-6. [Deep Learning Basics](#deep-learning-basics)
-7. [Advanced Deep Learning Topics](#advanced-deep-learning-topics)
+1. [Linear Algebra](#1-linear-algebra)
+1. [Probability and Statistics](#2-probability-and-statistics)
+1. [Calculus](#3-calculus)
+1. [Numerical Computation](#4-numerical-computation)
+1. [Machine Learning Fundamentals](#5-machine-learning-fundamentals)
+1. [Deep Learning Basics](#6-deep-learning-basics)
+1. [Advanced Deep Learning Topics](#7-advanced-deep-learning-topics)
 # 1. Linear Algebra
   ## - Vectors and Matrices: Vector operations, matrix operations, dot product, matrix-vector multiplication.
    
@@ -996,7 +996,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
    - [Discussion Link](https://github.com/openai/spinningup/discussions/14)
 
 
-# 7.Advanced Deep Learning Topics 
+# 7. Advanced Deep Learning Topics 
 
 ## - Batch Normalization: Normalizing activations in deep neural networks.
 ## Learning Resources: Batch Normalization
@@ -1262,7 +1262,7 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 This roadmap is a compilation of mathematical concepts covered in various deep learning resources, including the following:
 
 1. "Deep Learning" book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
-2. "Deep Learning with Python, Second Edition" by François Chollet.
-3. "Grokking Deep Learning" by Andrew Trask.
-4. "Deep Learning: A Practitioner's Approach" by Josh Patterson and Adam Gibson.
-5. "Deep Learning for Coders with fastai and PyTorch" by Jeremy Howard and Sylvain Gugger.
+1. "Deep Learning with Python, Second Edition" by François Chollet.
+1. "Grokking Deep Learning" by Andrew Trask.
+1. "Deep Learning: A Practitioner's Approach" by Josh Patterson and Adam Gibson.
+1. "Deep Learning for Coders with fastai and PyTorch" by Jeremy Howard and Sylvain Gugger.
