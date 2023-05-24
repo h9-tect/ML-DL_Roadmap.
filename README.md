@@ -53,8 +53,8 @@ This roadmap outlines the mathematical concepts and topics covered in various de
 1. Matrix Operations: Addition, Subtraction, Scalar Multiplication by Math Easy Solutions
    - [Website Link](https://matheasysolutions.com/2021/02/09/matrix-operations-addition-subtraction-scalar-multiplication/)
 
-2. Matrix Operations: Multiplication, Transpose, and Determinant by Math Easy Solutions
-   - [Website Link](https://matheasysolutions.com/2021/03/22/matrix-operations-multiplication-transpose-and-determinant/)
+2. Matrix Operations: Multiplication, Transpose, and Determinant by Math CUE math
+   - [Website Link](https://www.cuemath.com/algebra/matrix-operations/)
 
 3. Matrix Operations by Purplemath
    - [Website Link](https://www.purplemath.com/modules/mtrxoprs.htm)
